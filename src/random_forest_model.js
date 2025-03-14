@@ -1,0 +1,1 @@
+const model = {"n_estimators": 100, "max_depth": 247, "n_classes": 3, "n_features": 721, "classes": ["Junior", "Mid-Level", "Senior"]};

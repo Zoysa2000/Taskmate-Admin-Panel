@@ -1,0 +1,100 @@
+
+body{
+    overflow-x: hidden;
+  }
+  .nav-link
+  {
+    color:whitesmoke;
+    font-size: 18px;
+  }
+  
+  .btn-text{
+    color:whitesmoke;
+   
+  }
+  .nav-link:hover
+  {
+    color:whitesmoke;
+  }
+  .navbar-brand{
+    text-decoration: none;
+    color:whitesmoke;
+    font-size: 20px;
+  }
+  .extention
+  {
+    font-size: 30px;
+  }
+  .initial
+  {
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  h5
+  {
+  text-align: left;
+  }
+  
+  
+  .bg-image
+  {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/001/925/480/original/business-graph-chart-of-stock-market-investment-on-blue-background-vector.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position:center;
+  }
+  
+  li a
+  {
+  text-decoration: none;
+  color:#fff;
+  }
+  .a2
+  {
+    text-decoration: none;
+    color: black;  
+  }
+  #nav-toggle-button
+  {
+  color:#16056B;
+  }
+  .line{
+  width:120px;
+  height:4px;
+  margin: auto;
+  background:#0b71d9;
+  }
+  nav{
+    position: fixed;
+  }
+  
+  .line{
+    
+      width:100px;
+      height:2px;
+      margin:10px auto;
+      background:#5696FA;
+  }
+  .table-container {
+    max-height: 500px;
+    overflow: auto;
+    width: 100%;
+  }
+  .table-container::-webkit-scrollbar {
+    width: 0px; 
+    height: 0px;
+  }
+  .report {
+    max-height:auto;
+    overflow: auto;
+    width: 100%;
+  }
+  .report::-webkit-scrollbar {
+    width: 0px; 
+    height: 0px;
+  }
+  ::-webkit-scrollbar {
+    width: 0px;
+  }
+  
